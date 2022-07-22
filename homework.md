@@ -35,7 +35,7 @@ Making a website looke nice and responsive
 Using CSS, how would I select every `<h1>` tag on the page?
 
 
-#h1 {
+h1 {
 
 }
 
